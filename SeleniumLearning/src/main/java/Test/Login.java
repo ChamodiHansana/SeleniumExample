@@ -11,6 +11,8 @@ import org.testng.asserts.SoftAssert;
 
 public class Login {
 
+       //This is use for undertand new changes in selenoum basics
+
        WebDriver driver;
        SoftAssert sa;
 
